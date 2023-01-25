@@ -1,5 +1,11 @@
 ### Olá!! Eu sou o Pablo Bosak 👋
-🌱 Sou estudante do curso de Análise e Desenvolvimento de Sistemas!! 
+🌱 Sou graduado do curso de Análise e Desenvolvimento de Sistemas!!
+Possuo certificação de participação do CWI RESET - 4a EDIÇÃO.
+Foram vistos os seguintes temas: 
+Fundamentos de Teste de Software | Estratégias e Atividades de Teste |
+Fundamentos da automação de testes | Automação de testes FrontEnd e
+BackEnd com Cypress | Gerenciamento de testes e métricas | Acessibilidade |
+Segurança | Banco de dados básico
 
 <div align="center">
   <a href="https://github.com/pablo-bosak">

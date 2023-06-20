@@ -1,5 +1,6 @@
 ### Olá!! Eu sou o Pablo Bosak 👋
-🌱 Sou graduado do curso de Análise e Desenvolvimento de Sistemas!!
+🌱 Residente em Desenvolvimento de Software no TRF5 – Tribunal Regional Federal da 5ª Região em parceria com o IMD/UFRN.
+Sou graduado do curso de Análise e Desenvolvimento de Sistemas!!
 Possuo certificação de participação do CWI RESET - 4a EDIÇÃO.
 Foram vistos os seguintes temas: 
 Fundamentos de Teste de Software | Estratégias e Atividades de Teste |
@@ -18,6 +19,8 @@ Segurança | Banco de dados básico
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> 
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />           
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
 </div>
   
   ##
